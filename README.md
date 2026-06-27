@@ -1,16 +1,37 @@
-# React + Vite
+Guru Groq AI
+Guru Groq AI is an advanced, AI-powered learning assistant designed to streamline the study process. It helps students transform long PDF documents into concise summaries and interactive quizzes, making learning more efficient and accessible.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🚀 Key Features
+PDF Analysis: Easily upload and parse large PDF documents to extract relevant study material.
 
-Currently, two official plugins are available:
+Smart Summarization: Get clear, concise summaries of your study notes using Groq's high-speed Llama 3.1 model.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Interactive Quiz Room: Test your knowledge with automatically generated MCQs based on your uploaded content.
 
-## React Compiler
+Responsive UI: A modern, dark-themed, and user-friendly interface optimized for all devices.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Progress Tracking: Real-time progress monitoring while the AI processes your documents.
 
-## Expanding the ESLint configuration
+🌐 Live Demo
+You can access the live application here:
+Guru Groq AI Live Demo
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🛠️ Built With
+React.js: Frontend framework for building the interactive UI.
+
+Groq API (Llama 3.1): Powers the AI summarization and quiz generation.
+
+Tailwind CSS: For clean, modern styling.
+
+PDF.js: Used for efficient PDF text extraction.
+
+Vercel: Deployed and hosted as a live web application.
+
+💡 How to Use
+Upload your study material (PDF) using the upload box.
+
+Click the "Summary" button to generate a quick overview of your document.
+
+Switch to the "Quiz Room" tab to test your understanding with generated questions.
+
+Enjoy a smarter way to study!
